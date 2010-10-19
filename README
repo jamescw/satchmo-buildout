@@ -4,10 +4,6 @@ This is an attempt to recreate the virtualenv example in the post:
 
 http://www.satchmoproject.com/blog/2010/aug/01/satchmo-virtualenv/
 
-Still having difficulty working out what dependancies go in the "parts" and what goes in the "eggs" section.
-
-If I can nail it, it will be a great help for beginners of satchmo, not to mention useful for anyone wanting to create a satchmo install quickly on any machine.
-
 Credits:
 
 I used these projects to try and work out how to construct my buildout.cfg
